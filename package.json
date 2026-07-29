@@ -1,5 +1,5 @@
 {
-  "name": "chapter_4",
+  "name": "todo-webapp",
   "version": "1.0.0",
   "description": "Dockerized full stack todo webapp using nodejs server, Postgres DB, JWT auth",
   "main": "index.js",
